@@ -1,6 +1,7 @@
-## Hello guys! Me chamo Kaylanne <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-💻 + ☕ = **</>**
+## Hello guys! Me chamo Kaylanne
 
+ 💻 + ☕ = <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ 
 - 👩‍🎓 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** no [Instituto Federal de Educação, Ciência e Tecnologia do Piauí - IFPI](https://www.ifpi.edu.br/teresinacentral)
 
 ##
