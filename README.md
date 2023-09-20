@@ -1,4 +1,4 @@
-## Hey guys! I'm Kaylanne ☕
+## Hey guys! I'm Kaylanne <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🎓 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** no [Instituto Federal de Educação, Ciência e Tecnologia do Piauí - IFPI](https://www.ifpi.edu.br/teresinacentral)
 
@@ -32,5 +32,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KaylanneSantos&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-<a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
