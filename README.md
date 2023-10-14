@@ -4,8 +4,6 @@
  
 🎓 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** no [IFPI](https://www.ifpi.edu.br/teresinacentral)
 
-##
-
 #### 🖥️ Tecnologias e Ferramentas:
 
 <div style= "display: inline">
