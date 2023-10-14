@@ -19,8 +19,6 @@
   <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />-->
 </div>
 
-##
-
 ### 💬 Contatos
 <div style= "display: inline">
   <a href= "https://www.linkedin.com/in/kaylanne-santos-705ab9267/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
