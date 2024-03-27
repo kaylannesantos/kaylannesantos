@@ -1,4 +1,3 @@
-## Hello guys! Me chamo Kaylanne.
 <h3 align="center" style="font-size:12px">
  <i>Hello guys! Me chamo Kaylanne.</i>
 </h3>
