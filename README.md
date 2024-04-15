@@ -17,7 +17,6 @@
 
 ### Contacte-me
 [![Linkedin: Kaylanne Santos](https://img.shields.io/badge/-kaylannesantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaylanne-santos-705ab9267/)](https://www.linkedin.com/in/kaylanne-santos/)
-[![GitHub Kaylanne Santos](https://img.shields.io/github/followers/kaylannesantos?label=follow&style=social)](https://github.com/kaylannesantos)
 [![Email](https://img.shields.io/badge/Email-Enviar%20Mensagem-blue?style=flat-square&logo=gmail)](mailto:mendeskaylanne1@gmail.com)
 
 ##
