@@ -2,7 +2,7 @@
  <i>Hello guys! Me chamo Kaylanne.</i>
 </h3>
 
-🎓 Cursando **Análise e Desenvolvimento de Sistemas** - [IFPI](https://www.ifpi.edu.br/teresinacentral)
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** - [IFPI](https://www.ifpi.edu.br/teresinacentral)
 
 ### Skills
 <div style= "display: inline">
@@ -29,6 +29,12 @@
 </p>
 
 <!--
+##
+
+## 💻Projetos
+- **[Projeto 1](link-do-repositorio):**
+- 
+
 <div style= "display: inline">
   <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
