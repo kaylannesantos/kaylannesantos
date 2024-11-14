@@ -3,7 +3,7 @@
 </h3>
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** - [IFPI](https://www.ifpi.edu.br/teresinacentral)
-- 💼 Atualmente atuando como **Jovem Aprendiz na SEMEC** (Secretaria Municipal de Educação), onde ganho experiência prática em suporte técnico e manutenção de sistemas.
+- 💼 Atualmente atuando como **Estagiaria na SEMEC** (Secretaria Municipal de Educação), onde ganho experiência prática em desenvolvimento e manutenção de sistemas.
 - 👩‍🏫 Experiência com aulas de Excel no projeto Future Tech, desenvolvendo minha habilidade de comunicação e ensino de tecnologias.
 
 ### Skills
