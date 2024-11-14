@@ -1,8 +1,10 @@
 <h3 align="center" style="font-size:12px">
- <i>Hello guys! Me chamo Kaylanne.</i>
+ <i>Hello, pessoal! Me chamo Kaylanne.</i>
 </h3>
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** - [IFPI](https://www.ifpi.edu.br/teresinacentral)
+- 💼 Atualmente atuando como **Jovem Aprendiz na SEMEC** (Secretaria Municipal de Educação), onde ganho experiência prática em suporte técnico e manutenção de sistemas.
+- 👩‍🏫 Experiência com aulas de Excel no projeto Future Tech, desenvolvendo minha habilidade de comunicação e ensino de tecnologias.
 
 ### Skills
 <div style= "display: inline">
@@ -14,9 +16,12 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white")/>
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-### Contacte-me
+### Contato
 [![Linkedin: Kaylanne Santos](https://img.shields.io/badge/-kaylannesantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaylanne-santos-705ab9267/)](https://www.linkedin.com/in/kaylanne-santos/)
 [![Email](https://img.shields.io/badge/Email-Enviar%20Mensagem-blue?style=flat-square&logo=gmail)](mailto:mendeskaylanne1@gmail.com)
 
@@ -28,6 +33,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KaylanneSantos&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
 
 <!--
 ##
