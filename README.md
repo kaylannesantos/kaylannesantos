@@ -3,8 +3,8 @@
 </h3>
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** - [IFPI](https://www.ifpi.edu.br/teresinacentral)
-- 💼 Atualmente atuando como **Estagiaria na SEMEC** (Secretaria Municipal de Educação), onde ganho experiência prática em desenvolvimento e manutenção de sistemas.
-- 👩‍🏫 Experiência com aulas de Excel no projeto Future Tech, desenvolvendo minha habilidade de comunicação e ensino de tecnologias.
+- 💼 Atualmente atuando como **Estagiaria na SEMEC** (Secretaria Municipal de Educação).
+- 👩‍🏫 Experiência com aulas de Excel no projeto Future Tech.
 
 ### Skills
 <div style= "display: inline">
@@ -33,8 +33,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KaylanneSantos&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-
 
 <!--
 ##
