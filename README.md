@@ -3,7 +3,6 @@
 </h3>
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** - [IFPI](https://www.ifpi.edu.br/teresinacentral)
-- 💼 Atualmente atuando como **Estagiaria na SEMEC** (Secretaria Municipal de Educação).
 - 👩‍🏫 Experiência com aulas de Excel no projeto Future Tech.
 
 ### Skills
