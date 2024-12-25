@@ -1,5 +1,5 @@
 <h3 align="center" style="font-size:12px">
- <i>Hello, pessoal! Me chamo Kaylanne.</i>
+ <i>Olá, pessoal! Me chamo Kaylanne.</i>
 </h3>
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** - [IFPI](https://www.ifpi.edu.br/teresinacentral)
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white")/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -24,8 +24,10 @@
 [![Linkedin: Kaylanne Santos](https://img.shields.io/badge/-kaylannesantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaylanne-santos-705ab9267/)](https://www.linkedin.com/in/kaylanne-santos/)
 [![Email](https://img.shields.io/badge/Email-Enviar%20Mensagem-blue?style=flat-square&logo=gmail)](mailto:mendeskaylanne1@gmail.com)
 
-##
+## 💻 Projetos
+- **[PatroCars](https://github.com/kaylannesantos/ifpi/tree/main/prog_internetII-2024.2/patroCars)**: Sistema de gerenciamento de Cadastro para Montadoras de Veículos.
 
+## 📊 Minhas estatísticas
 <p align="center">
 <a href="https://github.com/KaylanneSantos">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KaylanneSantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
