@@ -5,7 +5,7 @@
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** - [IFPI](https://www.ifpi.edu.br/teresinacentral)
 - 👩‍🏫 Experiência com aulas de Excel no projeto Future Tech.
 
-### Skills
+## Skills
 <div style= "display: inline">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-### Contato
+## Contato
 [![Linkedin: Kaylanne Santos](https://img.shields.io/badge/-kaylannesantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaylanne-santos-705ab9267/)](https://www.linkedin.com/in/kaylanne-santos/)
 [![Email](https://img.shields.io/badge/Email-Enviar%20Mensagem-blue?style=flat-square&logo=gmail)](mailto:mendeskaylanne1@gmail.com)
 
