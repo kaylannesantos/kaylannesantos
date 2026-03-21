@@ -79,10 +79,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KaylanneSantos&style=flat-square&color=blue" alt="visitors" />
-  <br>
-  <a href="https://www.instagram.com/kaylannest_">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <br>
-  <p><i>Por Kaylanne Santos</i></p>
+  
+  <p><i>Feito com ❤️ por Kaylanne Santos</i></p>
 </div>
