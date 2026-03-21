@@ -80,5 +80,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KaylanneSantos&style=flat-square&color=blue" alt="visitors" />
   
-  <p><i>Feito com ❤️ por Kaylanne Santos</i></p>
+  <p><i>Por Kaylanne Santos</i></p>
 </div>
