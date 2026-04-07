@@ -12,8 +12,7 @@
 - 🔭 **Estudante** de **Análise e Desenvolvimento de Sistemas** no [IFPI Teresina Central](https://www.ifpi.edu.br/teresinacentral)
 - 👩‍🏫 **Experiência** ministrando aulas de Excel no projeto **Future Tech**
 - 📚 **Currículo Lattes**: [Acessar meu Currículo](https://lattes.cnpq.br/3753877325952569)
-- 🔐 Interesse em Segurança da Informação
-- 📚 Sempre aprendendo novas tecnologias
+- 🔐 Interesse em Segurança da Informação e ciência de dados
 
 ## 🛠️ **Skills**
 
