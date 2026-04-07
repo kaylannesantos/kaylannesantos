@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>👋 Olá, eu sou Kaylanne Santos!</h2>
+<h2>Hello Guys, eu sou Kaylanne Santos!</h2>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31859C&center=true&vCenter=true&width=435&lines=Desenvolvedora+Full-Stack+em+formação;Apaixonada+por+tecnologia;Sempre+aprendendo+%F0%9F%8C%90" alt="Typing SVG" />
@@ -8,8 +8,8 @@
 
 </div>
 
-## 🎓 Sobre mim
-- 🔭 **Estudante** de **Análise e Desenvolvimento de Sistemas** no [IFPI Teresina Central](https://www.ifpi.edu.br/teresinacentral)
+## <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/edfe2278-5b25-46c9-8d05-8a92a92fdcb6" /> Sobre mim
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e3439448-30f2-44fa-8c63-7055361f8797" /> **Estudante** de **Análise e Desenvolvimento de Sistemas** no [IFPI Teresina Central](https://www.ifpi.edu.br/teresinacentral)
 - 👩‍🏫 **Experiência** ministrando aulas de Excel no projeto **Future Tech**
 - 📚 **Currículo Lattes**: [Acessar meu Currículo](https://lattes.cnpq.br/3753877325952569)
 - 🔐 Interesse em Segurança da Informação e ciência de dados
@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
 </div>
 
+<!--
 ## 🚀 **Projetos em Destaque**
 
 ### **[PatroCars](https://github.com/kaylannesantos/ifpi/tree/main/prog_internetII-2024.2/patroCars)** 
@@ -49,6 +50,7 @@
 <div align="center">
   [![Projeto PatroCars](https://github-readme-stats.vercel.app/api/pin/?username=kaylannesantos&repo=ifpi&theme=tokyonight)](https://github.com/kaylannesantos/ifpi/tree/main/prog_internetII-2024.2/patroCars)
 </div>
+-->
 
 ## 📫 **Entre em contato!**
 
