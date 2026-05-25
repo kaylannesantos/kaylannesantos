@@ -12,7 +12,6 @@
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e3439448-30f2-44fa-8c63-7055361f8797" /> **Estudante** de **Análise e Desenvolvimento de Sistemas** no [IFPI Teresina Central](https://www.ifpi.edu.br/teresinacentral)
 - 👩‍🏫 **Experiência** ministrando aulas de Excel no projeto **Future Tech**
 - 📚 **Currículo Lattes**: [Acessar meu Currículo](https://lattes.cnpq.br/3753877325952569)
-- 🔐 Interesse em Segurança da Informação e ciência de dados
 
 ## 🛠️ **Skills**
 
