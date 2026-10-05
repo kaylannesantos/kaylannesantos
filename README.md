@@ -2,17 +2,18 @@
 
 <h2>Hello Guys, me chamo Kaylanne!</h2>
 
+<!--
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31859C&center=true&vCenter=true&width=435&lines=Desenvolvedora+Full-Stack+em+formação;Apaixonada+por+tecnologia;Sempre+aprendendo+%F0%9F%8C%90" alt="Typing SVG" />
 </div>
-
+## <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/edfe2278-5b25-46c9-8d05-8a92a92fdcb6" /> Sobre mim
+-->
 </div>
 
-## <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/edfe2278-5b25-46c9-8d05-8a92a92fdcb6" /> Sobre mim
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e3439448-30f2-44fa-8c63-7055361f8797" /> **Estudante** de **Análise e Desenvolvimento de Sistemas** no [IFPI Teresina Central](https://www.ifpi.edu.br/teresinacentral)
-- 👩‍🏫 **Experiência** ministrando aulas de Excel no projeto **Future Tech**
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e3439448-30f2-44fa-8c63-7055361f8797" /> **Analista e Desenvolvedora de Sistemas** pelo [IFPI Teresina Central](https://www.ifpi.edu.br/teresinacentral)
 - 📚 **Currículo Lattes**: [Acessar meu Currículo](https://lattes.cnpq.br/3753877325952569)
 
+<!--
 ## 🛠️ **Skills**
 
 ### 🌐 **Frontend**
@@ -38,7 +39,6 @@
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
 </div>
 
-<!--
 ## 🚀 **Projetos em Destaque**
 
 ### **[PatroCars](https://github.com/kaylannesantos/ifpi/tree/main/prog_internetII-2024.2/patroCars)** 
@@ -60,9 +60,11 @@
   <a href="mailto:mendeskaylanne1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <!--
   <a href="https://lattes.cnpq.br/3753877325952569">
     <img src="https://img.shields.io/badge/Curr%C3%ADculo_Lattes-0066CC?style=for-the-badge&logo=cnpq&logoColor=white" />
   </a>
+  -->
 </div>
 
 ## 📊 **GitHub Stats**
